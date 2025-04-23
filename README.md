@@ -1,1 +1,1 @@
-# Effector-CD8-Memory-T-Tem-Cell-Derived-STAT4-in-AS
+###The original data is too large to be uploaded. Please contact the corresponding author to obtain it after the article is published.
