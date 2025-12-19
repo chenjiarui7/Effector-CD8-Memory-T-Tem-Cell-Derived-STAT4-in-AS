@@ -1,1 +1,1 @@
-###The original data is too large to be uploaded. Please contact the corresponding author to obtain it after the article is published.
+###The original data can be seen in 3-1.zip to 3-6.zip. For detailed data analysis steps, please refer to the R code. Combining the data with the R code will allow you to grasp the detailed process.
